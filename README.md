@@ -1,2 +1,2 @@
 # MakeSRPG
-SRPG を作ってみたい
+**Java で SRPG を開発中…**
